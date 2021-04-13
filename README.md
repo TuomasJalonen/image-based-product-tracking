@@ -1,3 +1,3 @@
 # Robust Image-Based Product Tracking System Using Siamese Neural Networks
 
-The dataset will be published later.
+The dataset will be published soon.

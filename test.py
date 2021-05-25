@@ -4,8 +4,6 @@
 Created on Tue Dec 22 14:44:36 2020
 
 This file is used for testing the system.
-If you find this code useful, please cite:
-    @citation info
 
 @author: Tuomas Jalonen
 """

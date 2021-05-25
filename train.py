@@ -6,8 +6,6 @@ Created on Tue Aug 25 12:47:00 2020
 @author: Tuomas Jalonen
 
 This file is used for building the Siamese network model.
-If you find this code useful, please cite:
-    @citation info
 
 """
 

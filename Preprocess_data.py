@@ -5,9 +5,7 @@ Created on Wed Aug 12 22:02:20 2020
 
 @author: Tuomas Jalonen
 
-This file is used for building the preprocessing the data.
-If you find this code useful, please cite:
-    @citation info
+This file is used for preprocessing the data.
 
 """
 import os

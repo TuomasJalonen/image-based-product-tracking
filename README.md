@@ -10,7 +10,7 @@ Instructions:
 
 The Veneer21 Dataset is available at: https://ieee-dataport.org/open-access/veneer21
 
-**Please cite this as: **
+**Please cite this as:**
 
 T. Jalonen, F. Laakom, M. Gabbouj and T. Puoskari, "Visual Product Tracking System Using Siamese Neural Networks," in IEEE Access, doi: http://doi.org/10.1109/ACCESS.2021.3082934.
 
